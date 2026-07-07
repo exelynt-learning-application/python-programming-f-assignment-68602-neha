@@ -1,41 +1,48 @@
 # Student Details Program
 
-student_name = "Akshay"
-age = 22
-course_fee = 25000.50
-is_enrolled = True
+print("===== Student Details Program =====")
 
-# Print student details
-print("----- Student Details -----")
-print("Name:", student_name)
-print("Age:", age)
-print("Course Fee:", course_fee)
-print("Enrolled:", is_enrolled)
+# User Input
+student_name = input("Enter Student Name: ")
+age = int(input("Enter Age: "))
+course_fee = float(input("Enter Course Fee: "))
+is_enrolled = input("Is the student enrolled? (True/False): ")
 
-# Print data types
+# Convert input to Boolean
+if is_enrolled.lower() == "true":
+    is_enrolled = True
+else:
+    is_enrolled = False
+
+# Display Student Details
+print("\n----- Student Details -----")
+print("Student Name :", student_name)
+print("Age          :", age)
+print("Course Fee   :", course_fee)
+print("Enrolled     :", is_enrolled)
+
+# Display Data Types
 print("\n----- Data Types -----")
-print("Name:", type(student_name))
-print("Age:", type(age))
-print("Course Fee:", type(course_fee))
-print("Enrolled:", type(is_enrolled))
+print("Name Type       :", type(student_name))
+print("Age Type        :", type(age))
+print("Course Fee Type :", type(course_fee))
+print("Enrolled Type   :", type(is_enrolled))
 
-# Update variables
+# Update Values
 age = age + 1
-is_enrolled = False
+course_fee = course_fee + (course_fee * 0.18)   # Add 18% tax
+is_enrolled = not is_enrolled
 
-# Add 18% tax to course fee
-course_fee = course_fee + (course_fee * 0.18)
-
-# Print updated details
+# Display Updated Details
 print("\n----- Updated Student Details -----")
-print("Name:", student_name)
-print("Age:", age)
-print("Course Fee (After Tax):", course_fee)
-print("Enrolled:", is_enrolled)
+print("Student Name :", student_name)
+print("Updated Age  :", age)
+print("Updated Fee  :", course_fee)
+print("Enrolled     :", is_enrolled)
 
-# Print updated data types
+# Display Updated Data Types
 print("\n----- Updated Data Types -----")
-print("Name:", type(student_name))
-print("Age:", type(age))
-print("Course Fee:", type(course_fee))
-print("Enrolled:", type(is_enrolled))
+print("Name Type       :", type(student_name))
+print("Age Type        :", type(age))
+print("Course Fee Type :", type(course_fee))
+print("Enrolled Type   :", type(is_enrolled))
