@@ -1,22 +1,18 @@
-dvschdbncbhfcfbdcbjcbdjbcdcb
-num = int(input("Enter a number: "))
+In this week, learners will be introduced to Python, one of the most popular and beginner-friendly programming languages used in software development, automation, data science, web development, and AI. The focus is on understanding what Python is, where it is used, and why it is widely adopted in the industry.
+Learners will set up the Python development environment, understand Python syntax and indentation rules, work with variables and data types, perform input and output operations, and write their first Python programs. By the end of this week, learners will be able to install Python, configure an IDE, and confidently write and execute basic Python scripts.
 
-if num % 2 != 0:
-    print("Odd Number")
-else:
-    print("Even Number")num = int(input("Enter a number: "))
+In this week, learners will be introduced to Python, one of the most popular and beginner-friendly programming languages used in software development, automation, data science, web development, and AI. The focus is on understanding what Python is, where it is used, and why it is widely adopted in the industry.
+Learners will set up the Python development environment, understand Python syntax and indentation rules, work with variables and data types, perform input and output operations, and write their first Python programs. By the end of this week, learners will be able to install Python, configure an IDE, and confidently write and execute basic Python scripts.
 
-if num % 2 != 0:
-    print("Odd Number")
-else:
-    print("Even Number")num = int(input("Enter a number: "))
+In this week, learners will be introduced to Python, one of the most popular and beginner-friendly programming languages used in software development, automation, data science, web development, and AI. The focus is on understanding what Python is, where it is used, and why it is widely adopted in the industry.
+Learners will set up the Python development environment, understand Python syntax and indentation rules, work with variables and data types, perform input and output operations, and write their first Python programs. By the end of this week, learners will be able to install Python, configure an IDE, and confidently write and execute basic Python scripts.
 
-if num % 2 != 0:
-    print("Odd Number")
-else:
-    print("Even Number")num = int(input("Enter a number: "))
+In this week, learners will be introduced to Python, one of the most popular and beginner-friendly programming languages used in software development, automation, data science, web development, and AI. The focus is on understanding what Python is, where it is used, and why it is widely adopted in the industry.
+Learners will set up the Python development environment, understand Python syntax and indentation rules, work with variables and data types, perform input and output operations, and write their first Python programs. By the end of this week, learners will be able to install Python, configure an IDE, and confidently write and execute basic Python scripts.
 
-if num % 2 != 0:
-    print("Odd Number")
-else:
-    print("Even Number")
+In this week, learners will be introduced to Python, one of the most popular and beginner-friendly programming languages used in software development, automation, data science, web development, and AI. The focus is on understanding what Python is, where it is used, and why it is widely adopted in the industry.
+Learners will set up the Python development environment, understand Python syntax and indentation rules, work with variables and data types, perform input and output operations, and write their first Python programs. By the end of this week, learners will be able to install Python, configure an IDE, and confidently write and execute basic Python scripts.
+
+In this week, learners will be introduced to Python, one of the most popular and beginner-friendly programming languages used in software development, automation, data science, web development, and AI. The focus is on understanding what Python is, where it is used, and why it is widely adopted in the industry.
+Learners will set up the Python development environment, understand Python syntax and indentation rules, work with variables and data types, perform input and output operations, and write their first Python programs. By the end of this week, learners will be able to install Python, configure an IDE, and confidently write and execute basic Python scripts.
+
